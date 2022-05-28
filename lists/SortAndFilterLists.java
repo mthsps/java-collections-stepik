@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class WorkWithLists {
+public class SortAndFilterLists {
     /*
     1. Your BufferedReader gets string as this : "1 2 3 4 5"
     2. Next, you must create a list of numbers from this line (ArrayList<Integer>) in the createBigList:
